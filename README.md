@@ -1,2 +1,6 @@
-# GDSC-
-Technical Domain
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+        
+    }
+};
